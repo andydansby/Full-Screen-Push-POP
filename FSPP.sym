@@ -1,0 +1,8 @@
+data		EQU 0C000H
+end_of_data	EQU 0D800H
+end_push_it	EQU 08005H
+loop		EQU 08034H
+originalStack	EQU 08006H
+push_pop	EQU 08020H
+return		EQU 08004H
+start		EQU 08000H
